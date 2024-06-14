@@ -3,6 +3,9 @@ Proteins serve as the functional building blocks of life, facilitating critical 
 
 It's our great hornor to get you attention to our work ComProtein. Pre-trained checkpoints and splited data will be available once acceptance and more details will be added soon.
 
+# Model Architecture
+![Model Architecture](images/model.pdf)
+
 # Closely Related Generation
 |  |  |  |  |
 |---|---|---|---|
